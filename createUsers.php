@@ -100,9 +100,7 @@ $res = mysqli_query($bdc, $sql);
 </div>
 
 
-	
-	
-	
+		
 </form>
 
 

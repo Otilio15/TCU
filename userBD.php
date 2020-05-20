@@ -20,6 +20,7 @@
     $bdc = mysqli_connect("localhost", "id13721146_pawloguser", "bBo5eq6Qn61-bR4*") or die(mysqli_error($bdc));
     $bdc -> set_charset("utf8");
       mysqli_select_db($bdc, "id13721146_pawlog") or die(mysqli_error($bdc));  
+  
     //Damos click al botón de guardar y agregamos una persona
     if (isset($_POST['save'])) {
             
