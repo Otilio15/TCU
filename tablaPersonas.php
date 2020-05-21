@@ -118,6 +118,11 @@ if(isset($_GET['edit'])){
       </table>
     </div>
   </div>
+  <div class="text-center back-button" role="group"  >
+          <a href="index.php" class="btn btn-secondary btn-user btn-block">
+                  <i class="fas fa-times"></i> Atrás
+                </a>
+          </div>
 </div>
 
 </div>

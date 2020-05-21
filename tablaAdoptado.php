@@ -110,7 +110,13 @@ $sql= "SELECT        id13721146_pawlog.animales.UltimoNombre, id13721146_pawlog.
         </tbody>
       </table>
     </div>
+
   </div>
+  <div class="text-center back-button" role="group"  >
+          <a href="index.php" class="btn btn-secondary btn-user btn-block">
+                  <i class="fas fa-times"></i> Atrás
+                </a>
+          </div>
 </div>
 
 </div>
